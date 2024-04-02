@@ -1,0 +1,31 @@
+.all-countries-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  border: 0.1mm solid #94a3b8;
+  width: 100%;
+}
+
+p {
+  color: #cbd5e1;
+  padding-left: 20px;
+}
+
+.all-countries-button {
+  margin-right: 20px;
+  color: #ffffff;
+  background-color: #3b82f6;
+  border: none;
+  border-radius: 2px;
+  padding: 5px;
+  width: 70px;
+  font-weight: 500;
+}
+
+.visited-element {
+  color: #94a3b8;
+  font-weight: 500;
+  font-size: 15px;
+  margin-right: 31px;
+}
